@@ -1,0 +1,13 @@
+Base_model_0.3/* filter=lfs diff=lfs merge=lfs -text
+Bert_selftrain_useful/* filter=lfs diff=lfs merge=lfs -text
+Distitbert_bootstrapping_result/* filter=lfs diff=lfs merge=lfs -text
+Self_Train_bert_Result/* filter=lfs diff=lfs merge=lfs -text
+Try1_bert/* filter=lfs diff=lfs merge=lfs -text
+base_1_epoch_bert_model_directory_try2/* filter=lfs diff=lfs merge=lfs -text
+random_forest_model.pkl filter=lfs diff=lfs merge=lfs -text
+self_trained_bert_base_model/* filter=lfs diff=lfs merge=lfs -text
+self_trained_bert_model/* filter=lfs diff=lfs merge=lfs -text
+small_bert_model_directory/* filter=lfs diff=lfs merge=lfs -text
+trainer_output/* filter=lfs diff=lfs merge=lfs -text
+trainer_output_done/* filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
