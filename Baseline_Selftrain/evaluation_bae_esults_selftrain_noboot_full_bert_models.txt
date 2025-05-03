@@ -1,0 +1,3 @@
+Accuracy after fine-tuning: 0.8993
+Precision: 0.8900
+Recall: 0.8796
